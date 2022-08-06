@@ -1,0 +1,75 @@
+L:\Cervantes\3° Cuatrimestre\Programación 3\Trabajo Sistemas 3\Proyecto Sistemas 3\Proyecto Sistemas 3\bin\Debug\Proyecto Sistemas 3.exe.config
+L:\Cervantes\3° Cuatrimestre\Programación 3\Trabajo Sistemas 3\Proyecto Sistemas 3\Proyecto Sistemas 3\bin\Debug\Proyecto Sistemas 3.exe
+L:\Cervantes\3° Cuatrimestre\Programación 3\Trabajo Sistemas 3\Proyecto Sistemas 3\Proyecto Sistemas 3\bin\Debug\Proyecto Sistemas 3.pdb
+L:\Cervantes\3° Cuatrimestre\Programación 3\Trabajo Sistemas 3\Proyecto Sistemas 3\Proyecto Sistemas 3\obj\Debug\Proyecto Sistemas 3.csproj.AssemblyReference.cache
+L:\Cervantes\3° Cuatrimestre\Programación 3\Trabajo Sistemas 3\Proyecto Sistemas 3\Proyecto Sistemas 3\obj\Debug\Proyecto_Sistemas_3.Form1.resources
+L:\Cervantes\3° Cuatrimestre\Programación 3\Trabajo Sistemas 3\Proyecto Sistemas 3\Proyecto Sistemas 3\obj\Debug\Proyecto_Sistemas_3.frmCompras.resources
+L:\Cervantes\3° Cuatrimestre\Programación 3\Trabajo Sistemas 3\Proyecto Sistemas 3\Proyecto Sistemas 3\obj\Debug\Proyecto_Sistemas_3.Properties.Resources.resources
+L:\Cervantes\3° Cuatrimestre\Programación 3\Trabajo Sistemas 3\Proyecto Sistemas 3\Proyecto Sistemas 3\obj\Debug\Proyecto Sistemas 3.csproj.GenerateResource.cache
+L:\Cervantes\3° Cuatrimestre\Programación 3\Trabajo Sistemas 3\Proyecto Sistemas 3\Proyecto Sistemas 3\obj\Debug\Proyecto Sistemas 3.csproj.CoreCompileInputs.cache
+L:\Cervantes\3° Cuatrimestre\Programación 3\Trabajo Sistemas 3\Proyecto Sistemas 3\Proyecto Sistemas 3\obj\Debug\Proyecto Sistemas 3.exe
+L:\Cervantes\3° Cuatrimestre\Programación 3\Trabajo Sistemas 3\Proyecto Sistemas 3\Proyecto Sistemas 3\obj\Debug\Proyecto Sistemas 3.pdb
+L:\Cervantes\3° Cuatrimestre\Programación 3\Trabajo Sistemas 3\Proyecto Sistemas 3\Proyecto Sistemas 3\obj\Debug\Proyecto_Sistemas_3.frmProveedores.resources
+L:\Cervantes\3° Cuatrimestre\Programación 3\Trabajo Sistemas 3\Proyecto Sistemas 3\Proyecto Sistemas 3\obj\Debug\Proyecto_Sistemas_3.frmClientes.resources
+L:\Cervantes\3° Cuatrimestre\Programación 3\Trabajo Sistemas 3\Proyecto Sistemas 3\Proyecto Sistemas 3\obj\Debug\Proyecto_Sistemas_3.frmProducto.resources
+L:\Cervantes\3° Cuatrimestre\Programación 3\Trabajo Sistemas 3\Proyecto Sistemas 3\Proyecto Sistemas 3\obj\Debug\Proyecto_Sistemas_3.frmListSelectProveedor.resources
+L:\Cervantes\3° Cuatrimestre\Programación 3\Trabajo Sistemas 3\Proyecto Sistemas 3\Proyecto Sistemas 3\obj\Debug\Proyecto_Sistemas_3.frmListSelectCliente.resources
+L:\Cervantes\3° Cuatrimestre\Programación 3\Trabajo Sistemas 3\Proyecto Sistemas 3\Proyecto Sistemas 3\obj\Debug\Proyecto_Sistemas_3.frmVentas.resources
+C:\Users\joaqu\OneDrive\Escritorio\Proyecto Sistemas 3\Proyecto Sistemas 3\bin\Debug\Proyecto Sistemas 3.exe.config
+C:\Users\joaqu\OneDrive\Escritorio\Proyecto Sistemas 3\Proyecto Sistemas 3\bin\Debug\Proyecto Sistemas 3.exe
+C:\Users\joaqu\OneDrive\Escritorio\Proyecto Sistemas 3\Proyecto Sistemas 3\bin\Debug\Proyecto Sistemas 3.pdb
+C:\Users\joaqu\OneDrive\Escritorio\Proyecto Sistemas 3\Proyecto Sistemas 3\obj\Debug\Proyecto Sistemas 3.csproj.AssemblyReference.cache
+C:\Users\joaqu\OneDrive\Escritorio\Proyecto Sistemas 3\Proyecto Sistemas 3\obj\Debug\Proyecto_Sistemas_3.Form1.resources
+C:\Users\joaqu\OneDrive\Escritorio\Proyecto Sistemas 3\Proyecto Sistemas 3\obj\Debug\Proyecto_Sistemas_3.frmClientes.resources
+C:\Users\joaqu\OneDrive\Escritorio\Proyecto Sistemas 3\Proyecto Sistemas 3\obj\Debug\Proyecto_Sistemas_3.frmCompras.resources
+C:\Users\joaqu\OneDrive\Escritorio\Proyecto Sistemas 3\Proyecto Sistemas 3\obj\Debug\Proyecto_Sistemas_3.frmListSelectCliente.resources
+C:\Users\joaqu\OneDrive\Escritorio\Proyecto Sistemas 3\Proyecto Sistemas 3\obj\Debug\Proyecto_Sistemas_3.frmListSelectProveedor.resources
+C:\Users\joaqu\OneDrive\Escritorio\Proyecto Sistemas 3\Proyecto Sistemas 3\obj\Debug\Proyecto_Sistemas_3.frmProducto.resources
+C:\Users\joaqu\OneDrive\Escritorio\Proyecto Sistemas 3\Proyecto Sistemas 3\obj\Debug\Proyecto_Sistemas_3.frmProveedores.resources
+C:\Users\joaqu\OneDrive\Escritorio\Proyecto Sistemas 3\Proyecto Sistemas 3\obj\Debug\Proyecto_Sistemas_3.frmVentas.resources
+C:\Users\joaqu\OneDrive\Escritorio\Proyecto Sistemas 3\Proyecto Sistemas 3\obj\Debug\Proyecto_Sistemas_3.Properties.Resources.resources
+C:\Users\joaqu\OneDrive\Escritorio\Proyecto Sistemas 3\Proyecto Sistemas 3\obj\Debug\Proyecto Sistemas 3.csproj.GenerateResource.cache
+C:\Users\joaqu\OneDrive\Escritorio\Proyecto Sistemas 3\Proyecto Sistemas 3\obj\Debug\Proyecto Sistemas 3.csproj.CoreCompileInputs.cache
+C:\Users\joaqu\OneDrive\Escritorio\Proyecto Sistemas 3\Proyecto Sistemas 3\obj\Debug\Proyecto Sistemas 3.exe
+C:\Users\joaqu\OneDrive\Escritorio\Proyecto Sistemas 3\Proyecto Sistemas 3\obj\Debug\Proyecto Sistemas 3.pdb
+C:\Users\joaqu\OneDrive\Escritorio\Proyecto Sistemas 3\Proyecto Sistemas 3\obj\Debug\Trabajo_de_Sistemas3.inventario.resources
+L:\Cervantes\3° Cuatrimestre\Programación 3\Trabajo Sistemas 3\Proyecto Sistemas 3 (1)\Proyecto Sistemas 3\Proyecto Sistemas 3\obj\Debug\Proyecto Sistemas 3.csproj.AssemblyReference.cache
+L:\Cervantes\3° Cuatrimestre\Programación 3\Trabajo Sistemas 3\Proyecto Sistemas 3 (1)\Proyecto Sistemas 3\Proyecto Sistemas 3\obj\Debug\Proyecto Sistemas 3.exe
+L:\Cervantes\3° Cuatrimestre\Programación 3\Trabajo Sistemas 3\Proyecto Sistemas 3 (1)\Proyecto Sistemas 3\Proyecto Sistemas 3\obj\Debug\Proyecto Sistemas 3.pdb
+L:\Cervantes\3° Cuatrimestre\Programación 3\Trabajo Sistemas 3\Proyecto Sistemas 3 (1)\Proyecto Sistemas 3\Proyecto Sistemas 3\bin\Debug\Proyecto Sistemas 3.exe.config
+L:\Cervantes\3° Cuatrimestre\Programación 3\Trabajo Sistemas 3\Proyecto Sistemas 3 (1)\Proyecto Sistemas 3\Proyecto Sistemas 3\bin\Debug\Proyecto Sistemas 3.exe
+L:\Cervantes\3° Cuatrimestre\Programación 3\Trabajo Sistemas 3\Proyecto Sistemas 3 (1)\Proyecto Sistemas 3\Proyecto Sistemas 3\bin\Debug\Proyecto Sistemas 3.pdb
+L:\Cervantes\3° Cuatrimestre\Programación 3\Trabajo Sistemas 3\Proyecto Sistemas 3 (1)\Proyecto Sistemas 3\Proyecto Sistemas 3\obj\Debug\Proyecto_Sistemas_3.Form1.resources
+L:\Cervantes\3° Cuatrimestre\Programación 3\Trabajo Sistemas 3\Proyecto Sistemas 3 (1)\Proyecto Sistemas 3\Proyecto Sistemas 3\obj\Debug\Proyecto_Sistemas_3.frmClientes.resources
+L:\Cervantes\3° Cuatrimestre\Programación 3\Trabajo Sistemas 3\Proyecto Sistemas 3 (1)\Proyecto Sistemas 3\Proyecto Sistemas 3\obj\Debug\Proyecto_Sistemas_3.frmCompras.resources
+L:\Cervantes\3° Cuatrimestre\Programación 3\Trabajo Sistemas 3\Proyecto Sistemas 3 (1)\Proyecto Sistemas 3\Proyecto Sistemas 3\obj\Debug\Proyecto_Sistemas_3.frmListSelectCliente.resources
+L:\Cervantes\3° Cuatrimestre\Programación 3\Trabajo Sistemas 3\Proyecto Sistemas 3 (1)\Proyecto Sistemas 3\Proyecto Sistemas 3\obj\Debug\Proyecto_Sistemas_3.frmListSelectProveedor.resources
+L:\Cervantes\3° Cuatrimestre\Programación 3\Trabajo Sistemas 3\Proyecto Sistemas 3 (1)\Proyecto Sistemas 3\Proyecto Sistemas 3\obj\Debug\Proyecto_Sistemas_3.frmProducto.resources
+L:\Cervantes\3° Cuatrimestre\Programación 3\Trabajo Sistemas 3\Proyecto Sistemas 3 (1)\Proyecto Sistemas 3\Proyecto Sistemas 3\obj\Debug\Proyecto_Sistemas_3.frmProveedores.resources
+L:\Cervantes\3° Cuatrimestre\Programación 3\Trabajo Sistemas 3\Proyecto Sistemas 3 (1)\Proyecto Sistemas 3\Proyecto Sistemas 3\obj\Debug\Proyecto_Sistemas_3.frmVentas.resources
+L:\Cervantes\3° Cuatrimestre\Programación 3\Trabajo Sistemas 3\Proyecto Sistemas 3 (1)\Proyecto Sistemas 3\Proyecto Sistemas 3\obj\Debug\Trabajo_de_Sistemas3.inventario.resources
+L:\Cervantes\3° Cuatrimestre\Programación 3\Trabajo Sistemas 3\Proyecto Sistemas 3 (1)\Proyecto Sistemas 3\Proyecto Sistemas 3\obj\Debug\Proyecto_Sistemas_3.Properties.Resources.resources
+L:\Cervantes\3° Cuatrimestre\Programación 3\Trabajo Sistemas 3\Proyecto Sistemas 3 (1)\Proyecto Sistemas 3\Proyecto Sistemas 3\obj\Debug\Proyecto Sistemas 3.csproj.GenerateResource.cache
+L:\Cervantes\3° Cuatrimestre\Programación 3\Trabajo Sistemas 3\Proyecto Sistemas 3 (1)\Proyecto Sistemas 3\Proyecto Sistemas 3\obj\Debug\Proyecto Sistemas 3.csproj.CoreCompileInputs.cache
+L:\Cervantes\3° Cuatrimestre\Programación 3\Trabajo Sistemas 3\Proyecto Sistemas 3 (1)\Proyecto Sistemas 3\Proyecto Sistemas 3\obj\Debug\Proyecto_Sistemas_3.ListarTotalVentas.resources
+L:\Cervantes\3° Cuatrimestre\Programación 3\Trabajo Sistemas 3\Proyecto Sistemas 3 (1)\Proyecto Sistemas 3\Proyecto Sistemas 3\obj\Debug\Proyecto_Sistemas_3.ListaTotalCompras.resources
+C:\Users\joaqu\OneDrive\Escritorio\PROYECTO SISTEMA 3 FINAL\Proyecto Sistemas 3\Proyecto Sistemas 3\bin\Debug\Proyecto Sistemas 3.exe.config
+C:\Users\joaqu\OneDrive\Escritorio\PROYECTO SISTEMA 3 FINAL\Proyecto Sistemas 3\Proyecto Sistemas 3\bin\Debug\Proyecto Sistemas 3.exe
+C:\Users\joaqu\OneDrive\Escritorio\PROYECTO SISTEMA 3 FINAL\Proyecto Sistemas 3\Proyecto Sistemas 3\bin\Debug\Proyecto Sistemas 3.pdb
+C:\Users\joaqu\OneDrive\Escritorio\PROYECTO SISTEMA 3 FINAL\Proyecto Sistemas 3\Proyecto Sistemas 3\obj\Debug\Proyecto Sistemas 3.csproj.AssemblyReference.cache
+C:\Users\joaqu\OneDrive\Escritorio\PROYECTO SISTEMA 3 FINAL\Proyecto Sistemas 3\Proyecto Sistemas 3\obj\Debug\Proyecto_Sistemas_3.Form1.resources
+C:\Users\joaqu\OneDrive\Escritorio\PROYECTO SISTEMA 3 FINAL\Proyecto Sistemas 3\Proyecto Sistemas 3\obj\Debug\Proyecto_Sistemas_3.frmClientes.resources
+C:\Users\joaqu\OneDrive\Escritorio\PROYECTO SISTEMA 3 FINAL\Proyecto Sistemas 3\Proyecto Sistemas 3\obj\Debug\Proyecto_Sistemas_3.frmCompras.resources
+C:\Users\joaqu\OneDrive\Escritorio\PROYECTO SISTEMA 3 FINAL\Proyecto Sistemas 3\Proyecto Sistemas 3\obj\Debug\Proyecto_Sistemas_3.frmListSelectCliente.resources
+C:\Users\joaqu\OneDrive\Escritorio\PROYECTO SISTEMA 3 FINAL\Proyecto Sistemas 3\Proyecto Sistemas 3\obj\Debug\Proyecto_Sistemas_3.frmListSelectProveedor.resources
+C:\Users\joaqu\OneDrive\Escritorio\PROYECTO SISTEMA 3 FINAL\Proyecto Sistemas 3\Proyecto Sistemas 3\obj\Debug\Proyecto_Sistemas_3.frmProducto.resources
+C:\Users\joaqu\OneDrive\Escritorio\PROYECTO SISTEMA 3 FINAL\Proyecto Sistemas 3\Proyecto Sistemas 3\obj\Debug\Proyecto_Sistemas_3.frmProveedores.resources
+C:\Users\joaqu\OneDrive\Escritorio\PROYECTO SISTEMA 3 FINAL\Proyecto Sistemas 3\Proyecto Sistemas 3\obj\Debug\Proyecto_Sistemas_3.frmVentas.resources
+C:\Users\joaqu\OneDrive\Escritorio\PROYECTO SISTEMA 3 FINAL\Proyecto Sistemas 3\Proyecto Sistemas 3\obj\Debug\Trabajo_de_Sistemas3.inventario.resources
+C:\Users\joaqu\OneDrive\Escritorio\PROYECTO SISTEMA 3 FINAL\Proyecto Sistemas 3\Proyecto Sistemas 3\obj\Debug\Proyecto_Sistemas_3.ListarTotalVentas.resources
+C:\Users\joaqu\OneDrive\Escritorio\PROYECTO SISTEMA 3 FINAL\Proyecto Sistemas 3\Proyecto Sistemas 3\obj\Debug\Proyecto_Sistemas_3.ListaTotalCompras.resources
+C:\Users\joaqu\OneDrive\Escritorio\PROYECTO SISTEMA 3 FINAL\Proyecto Sistemas 3\Proyecto Sistemas 3\obj\Debug\Proyecto_Sistemas_3.Properties.Resources.resources
+C:\Users\joaqu\OneDrive\Escritorio\PROYECTO SISTEMA 3 FINAL\Proyecto Sistemas 3\Proyecto Sistemas 3\obj\Debug\Proyecto Sistemas 3.csproj.GenerateResource.cache
+C:\Users\joaqu\OneDrive\Escritorio\PROYECTO SISTEMA 3 FINAL\Proyecto Sistemas 3\Proyecto Sistemas 3\obj\Debug\Proyecto Sistemas 3.csproj.CoreCompileInputs.cache
+C:\Users\joaqu\OneDrive\Escritorio\PROYECTO SISTEMA 3 FINAL\Proyecto Sistemas 3\Proyecto Sistemas 3\obj\Debug\Proyecto Sistemas 3.exe
+C:\Users\joaqu\OneDrive\Escritorio\PROYECTO SISTEMA 3 FINAL\Proyecto Sistemas 3\Proyecto Sistemas 3\obj\Debug\Proyecto Sistemas 3.pdb
